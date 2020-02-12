@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineSinavModel", "OnlineSinavModel\OnlineSinavModel.csproj", "{2334DC4C-AD04-40B5-9C73-F8ACFCAE0886}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineSinavDAL", "OnlineSinavDAL\OnlineSinavDAL.csproj", "{06179625-7E31-4B54-9168-27AC55EA34C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineSinavBLL", "OnlineSinavBLL\OnlineSinavBLL.csproj", "{09202346-0BD6-4221-80E6-B0C3621ED56D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineSinavCore", "OnlineSinavCore\OnlineSinavCore.csproj", "{D83EAD07-34B9-4BDB-AD07-0304551B964C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineSinavUI", "OnlineSinavUI\OnlineSinavUI.csproj", "{949AAE71-A810-4B38-BE03-59B8FD66D614}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineSinavService", "OnlineSinavService\OnlineSinavService.csproj", "{AA883309-0DD4-4F1A-BE03-B435C14382E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2334DC4C-AD04-40B5-9C73-F8ACFCAE0886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2334DC4C-AD04-40B5-9C73-F8ACFCAE0886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2334DC4C-AD04-40B5-9C73-F8ACFCAE0886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2334DC4C-AD04-40B5-9C73-F8ACFCAE0886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06179625-7E31-4B54-9168-27AC55EA34C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06179625-7E31-4B54-9168-27AC55EA34C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06179625-7E31-4B54-9168-27AC55EA34C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06179625-7E31-4B54-9168-27AC55EA34C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09202346-0BD6-4221-80E6-B0C3621ED56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09202346-0BD6-4221-80E6-B0C3621ED56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09202346-0BD6-4221-80E6-B0C3621ED56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09202346-0BD6-4221-80E6-B0C3621ED56D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83EAD07-34B9-4BDB-AD07-0304551B964C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83EAD07-34B9-4BDB-AD07-0304551B964C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83EAD07-34B9-4BDB-AD07-0304551B964C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83EAD07-34B9-4BDB-AD07-0304551B964C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{949AAE71-A810-4B38-BE03-59B8FD66D614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949AAE71-A810-4B38-BE03-59B8FD66D614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949AAE71-A810-4B38-BE03-59B8FD66D614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949AAE71-A810-4B38-BE03-59B8FD66D614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA883309-0DD4-4F1A-BE03-B435C14382E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA883309-0DD4-4F1A-BE03-B435C14382E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA883309-0DD4-4F1A-BE03-B435C14382E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA883309-0DD4-4F1A-BE03-B435C14382E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46D97EBE-41B2-4C2D-9509-9FF64EA70BD1}
+	EndGlobalSection
+EndGlobal
